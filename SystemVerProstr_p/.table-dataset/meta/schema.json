@@ -1,0 +1,1 @@
+[{"id": "e353b855-97bd-2807-444a-5b222503430b", "name": "fid", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "50dc02f9-920e-110c-7b85-17dbff225639", "name": "geom", "dataType": "geometry", "geometryType": "MULTIPOLYGON", "geometryCRS": "EPSG:5514"}, {"id": "e8c55b89-564b-7a11-1393-1074e1795428", "name": "Obec_Kod", "dataType": "integer", "size": 32}]
